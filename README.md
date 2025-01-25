@@ -1,4 +1,9 @@
-Análise de Métricas RFV para E-commerce
+
+<div align="center">
+  <h1> Análise de Métricas RFV para E-commerce</h1>
+</div>  
+
+
 Este projeto foi desenvolvido como parte do Desafio 7 da Escola DNC, com o objetivo de criar um modelo de análise das métricas RFV (Recência, Frequência, Valor) para agrupar perfis de clientes de um e-commerce utilizando técnicas de Clustering.
 
 🚀 Objetivo
